@@ -4,4 +4,4 @@ This is a really awesome website
 
 Making changes locally
 
-Making changes remotely
+More changes locally
